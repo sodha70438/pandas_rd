@@ -1,0 +1,9 @@
+Restaurant,City,Cuisine,Rating,Average Cost (₹),Online Delivery
+Food Hub,Ahmedabad,North Indian,4.2,450,Yes
+Pizza Palace,Ahmedabad,Italian,4.5,600,Yes
+Spice Garden,Mumbai,Chinese,3.8,350,No
+Royal Thali,Ahmedabad,Gujarati,4.0,250,Yes
+Burger Point,Delhi,Fast Food,4.1,300,Yes
+South Treat,Mumbai,South Indian,4.3,400,No
+Tandoori Nights,Delhi,Mughlai,4.4,550,Yes
+Sweet Corner,Ahmedabad,Desserts,3.9,200,Yes
